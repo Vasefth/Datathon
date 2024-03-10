@@ -21,12 +21,21 @@ We extend our gratitude to the University of Macedonia for providing us with thi
 - Georgios Tzelalis
 - Stavroula Tsoni
 
-Their hard work and commitment were instrumental in our project's success, embodying the essence of collaboration and the pursuit of knowledge.
+## Important Disclaimer
 
-## 📝 License
-This project is open-sourced , allowing for its free use and distribution in hopes of contributing to sustainable energy solutions worldwide.
+### Neural Network Implementation
+It's important to note that our neural network implementation, while a critical part of our project, is not 100% accurate due to the time constraints of the contest. The development of this component was ambitious, aiming to showcase the potential of neural networks in predicting household energy consumption. However, due to the limited timeframe, it couldn't be refined to its full accuracy potential. We plan to continue working on this aspect of our project to improve its performance and reliability.
 
-## 📬 Contact
-For further inquiries or potential collaborations, please reach out to us.
+### Machine Learning Model Accuracy
+On a brighter note, our implementation of machine learning models using Linear and Polynomial Regression techniques has been thoroughly vetted and is correct. These models have been instrumental in our project's success, providing solid and reliable predictions of household energy consumption. Their accuracy stands as a testament to the robustness of traditional regression techniques in handling real-world data and contributing valuable insights into energy usage patterns.
 
-We look forward to engaging in more projects that leverage technology to solve pressing environmental issues.
+## Looking Ahead
+We are committed to refining our neural network model and exploring additional data sources and machine learning techniques to enhance our project's accuracy and impact. The journey of learning and improvement continues, and we are excited about the future possibilities of applying AI and machine learning to environmental and energy management challenges.
+
+## Contribution and Collaboration
+We welcome contributions, suggestions, and collaborations from the community to take this project to the next level. Whether it's improving the neural network model, suggesting new data sources, or discussing potential applications of our work, we're open to all forms of collaboration that can drive positive change in sustainable energy management.
+
+## Contact Us
+For contributions, inquiries, or to discuss potential collaborations, please reach out to us.
+
+Together, we can make a significant impact on the world's energy future.
